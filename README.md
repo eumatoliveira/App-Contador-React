@@ -1,3 +1,25 @@
+# React Counter App
+
+Um projeto simples em **React** que implementa um contador com botão de incremento.
+Este projeto é ideal para iniciantes que estão aprendendo **componentes**, **estado (useState)** e **eventos** no React.
+
+---
+
+## 🖥️ Funcionalidades
+
+- Exibe um contador com valor inicial zero.
+- Permite incrementar o valor do contador ao clicar no botão.
+- Interface simples e responsiva.
+
+---
+
+## ⚙️ Tecnologias
+
+- React 18
+- JavaScript (JSX)
+- CSS para estilização
+- Vite como bundler e servidor de desenvolvimento
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
